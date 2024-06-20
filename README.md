@@ -23,7 +23,7 @@ ROOT/
 └─ README.md
 ```
 
-## 
+## Translation Flow
 
 ```shell
 $ npm run i18n:extract
