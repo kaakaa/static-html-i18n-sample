@@ -27,7 +27,7 @@ ROOT/
 
 ```shell
 $ npm run i18n:extract
-  # テンプレートファイル`pages/hbs/*.htlm`を読み、ファイル内に書かれている
+  # テンプレートファイル`pages/hbs/*.html`を読み、ファイル内に書かれている
   # 翻訳Keyを`i18n/translations.*.json`に書き出す
 
   # => `i18n/translations.*.json`に翻訳Keyに合わせてメッセージ及び翻訳メッセージを書く
