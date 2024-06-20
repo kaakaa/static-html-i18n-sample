@@ -1,0 +1,13 @@
+{
+  "index": {
+    "title": "i18n sample page",
+    "heading": "Hello, world!",
+    "phrase1": "This is a phrase.",
+    "phrase2": "This phrase includes a <span>HTML tag</span>."
+  },
+  "top": {
+    "title": "sample top page",
+    "heading": "This is a heading.",
+    "phrase1": "This is a something phrase."
+  }
+}

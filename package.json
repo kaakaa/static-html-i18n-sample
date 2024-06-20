@@ -1,0 +1,23 @@
+{
+  "name": "static-html-i18n-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "i18n:extract": "i18n-collect pages/hbs/*.html i18n/translations.json --separateLngFiles --lng=en,ja --update",
+    "i18n:compile": "node i18n.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "handlebars-i18n-cli": "^1.0.5"
+  },
+  "dependencies": {
+    "glob": "^10.4.2",
+    "handlebars": "^4.7.8",
+    "handlebars-i18n": "^1.7.0",
+    "html-entities": "^2.5.2",
+    "i18next": "^21.6.14"
+  }
+}
