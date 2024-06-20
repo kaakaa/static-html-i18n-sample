@@ -8,6 +8,6 @@
   "top": {
     "title": "sample top page",
     "heading": "This is a heading.",
-    "phrase1": "This is a something phrase."
+    "phrase1": "This phrase includes \"escaped\" characters like '\\'."
   }
 }
